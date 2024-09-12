@@ -1,3 +1,12 @@
+/*
+ * File: Ex2_Vowel_Consonant.c
+ * File Created: Wednesday, 11th September 2024 6:24:03 pm
+ * Author: Abdulrahman A Abdulaziz (abdulrahman.nsst@gmail.com)
+ * -----
+ * Last Modified: Wednesday, 11th September 2024 7:45:09 pm
+ * Modified By: Abdulrahman A Abdulaziz (abdulrahman.nsst@gmail.com>)
+ * -----
+ */
 #include<stdio.h>
 
 void main(void)

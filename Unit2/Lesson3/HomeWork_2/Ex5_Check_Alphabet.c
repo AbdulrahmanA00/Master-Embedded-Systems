@@ -1,3 +1,12 @@
+/*
+ * File: Ex5_Check_Alphabet.c
+ * File Created: Wednesday, 11th September 2024 7:12:42 pm
+ * Author: Abdulrahman A Abdulaziz (abdulrahman.nsst@gmail.com)
+ * -----
+ * Last Modified: Wednesday, 11th September 2024 7:45:28 pm
+ * Modified By: Abdulrahman A Abdulaziz (abdulrahman.nsst@gmail.com>)
+ * -----
+ */
 #include<stdio.h>
 
 void main(void)
