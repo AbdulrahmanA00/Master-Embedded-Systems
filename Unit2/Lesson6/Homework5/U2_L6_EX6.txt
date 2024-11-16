@@ -1,0 +1,15 @@
+/*
+ * File: U2_L6_EX6.txt
+ * File Created: Saturday, 16th November 2024 12:53:38 pm
+ * Author: Abdulrahman A Abdulaziz (abdulrahman.nsst@gmail.com)
+ * -----
+ * Last Modified: Saturday, 16th November 2024 12:53:38 pm
+ * Modified By: Abdulrahman A Abdulaziz (abdulrahman.nsst@gmail.com>)
+ * -----
+ */
+
+ Output for this code:
+
+ >> size of union=32
+ >> size of structure=40
+
